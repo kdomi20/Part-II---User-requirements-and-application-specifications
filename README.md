@@ -1,4 +1,4 @@
-Development model: We are using waterfall model due to it being the simplest way to organize the project in a step by step fashion and give proper documentation.
+Development model: In this project we will use the reuse model and we will integrate existing components from Bootstrap and other websites.
 
 User requirements:
 
